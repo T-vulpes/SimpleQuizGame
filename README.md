@@ -1,4 +1,4 @@
-# Trivia Quiz Game
+# Quiz Game
 
 ## Türkçe
 
@@ -11,6 +11,7 @@ Bu proje, basit bir bilgi yarışması oyunudur. Oyunda her doğru cevap bir son
 - 50:50 joker hakkı: İki yanlış cevabı gizler
 - Pas joker hakkı: Soruyu geçmenizi sağlar
 
+[Canlı Demo](https://t-vulpes.github.io/SimpleQuizGame/)
 
 ---
 
@@ -25,4 +26,5 @@ This project is a simple trivia quiz game. Each correct answer takes you to the 
 - 50:50 lifeline: Hides two wrong answers
 - Pass lifeline: Skips the current question
 
+[Live Demo](https://t-vulpes.github.io/SimpleQuizGame/)
 
